@@ -1,4 +1,4 @@
-# Pintrest Code Challenge
+# Pinterest Code Challenge
 
 Question, write a function to take two lists, input1 and input2, as the input and return a merged list as below
 
